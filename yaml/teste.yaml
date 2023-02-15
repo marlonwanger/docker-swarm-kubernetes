@@ -1,0 +1,38 @@
+#instruções para o programa
+nome: "Marlon"
+idade: 15
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+#numbers
+versao: 2
+versao_completa: 3.14
+#string
+string_sem_aspas: Digite um texto aqui
+string_com_aspas: "Digite um texto aqui"
+#nulls
+nulo: ~
+nulo2: null
+#bools
+verdadeiro: true
+verdadeiro2: on
+falso: false
+falso2: off
+
+#arrays
+array: [1,2,3,4,5]
+array2:
+  - 1
+  - 2
+  - 3
+  - "4"
+  - True
+
+#objeto
+objetos: {ob1: 1, ob2: 2}
+objetos2:
+  a: 2
+  b: 3
+  objeto_interno:
+    a: 1
+    b: 2
